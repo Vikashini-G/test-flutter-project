@@ -2,6 +2,9 @@
 
 My first flutter project. A simple app layout with a ghibli movie still.
 
+![WhatsApp Image 2023-08-22 at 19 48 18](https://github.com/Vikashini-G/test-flutter-project/assets/112184188/5ce987a9-16b2-4d1e-a81a-787ed6288349)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
