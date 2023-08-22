@@ -1,6 +1,6 @@
 # testproject
 
-A new Flutter project.
+My first flutter project. A simple app layout with a ghibli movie still.
 
 ## Getting Started
 
